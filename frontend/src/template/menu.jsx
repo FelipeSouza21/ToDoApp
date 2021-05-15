@@ -11,10 +11,10 @@ export default (props) => (
     <div id="navbar" className="navbar-collapse collapse">
       <ul className="nav navbar-nav">
         <li>
-          <a href="#/todos">Tasks</a>
+          <a href="#/todos" className="fa fa-calendar-plus-o">Tasks</a>
         </li>
         <li>
-          <a href="#/about">About</a>
+          <a href="#/about" className="fa fa-book">About</a>
         </li>
       </ul>
     </div>
