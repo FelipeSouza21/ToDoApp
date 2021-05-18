@@ -1,5 +1,3 @@
-import axios from "axios";
-
 import TodoDataService from "../resources/todoServices";
 
 const URL = "http://localhost:3003/api/todos";
