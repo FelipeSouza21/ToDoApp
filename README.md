@@ -12,7 +12,7 @@ In the backend directory, you can run:
 
 Launches the backend on the dev mode, on port 3003.
 
-In the backend directory, you can run:
+In the frontend directory, you can run:
 
 ### `npm run dev`
 
